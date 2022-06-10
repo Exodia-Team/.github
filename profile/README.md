@@ -1,4 +1,4 @@
-![Welcome](profile/images/ExodiaTeam.gif)
+![Welcome](./images/ExodiaTeam.gif)
  
 
 ## For English people, please, see below 🔠
