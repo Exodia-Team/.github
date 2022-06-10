@@ -17,8 +17,6 @@
 - 🍿 Fun facts - All we met in college;
 - 🧙 Real facts - We are the EXODIA, seriously.
 
-## Stacks
-
 <div style="display: inline_block"><br>
   <h2>Our stacks / Nossas stacks 🤖</h2>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
