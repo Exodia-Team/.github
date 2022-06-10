@@ -1,4 +1,4 @@
-![Welcome](./images/ExodiaTeam.gif)
+<img src="./images/ExodiaTeam.gif" height="500" width="1000">
  
 
 ## For English people, please, see below 🔠
