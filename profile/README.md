@@ -1,4 +1,4 @@
-<img src="./images/ExodiaTeam.gif" height="500" width="700">
+<img src="./images/ExodiaTeam.gif" height="400" width="600">
  
 
 ## For English people, please, see below 🔠
