@@ -1,6 +1,3 @@
-<img src="./images/ExodiaTeam.gif" height="200" width="200">
- 
-
 ## For English people, please, see below 🔠
 
 - 🙋‍♀️ Uma breve introdução - Essa organização é apenas para diversão, estudo e para estar mais próximo de projetos reais; 
